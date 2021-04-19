@@ -1,0 +1,76 @@
+Software designed to prevent, detect and eradicate malicious software, such as a virus?
+Anti-Malware Software
+Anti-Phishing Software
+None of these
+Bloat ware
+Anti-Malware Software
+-----
+What is A network of computers infected with malicious software and controlled without the owners knowledge?
+Attack Stack
+Malicious Network
+Botnet
+None of these
+Botnet
+-----
+An attempt to disrupt a network/business/organisation by issuing more requests than a system is able to cope with, it can be performed with malicious intent or as a protest?
+None of these
+Backdoor
+Evil Twin Attack
+Denial Of Service
+Denial Of Service
+-----
+A method that is used to attempt to ensure data security by use of encrypted (secret) code?
+Encryption
+Data Lock
+Decryption
+All of the above
+Encryption
+-----
+Software that is designed to protect a computer system/network from unauthorised access and intrusion?
+Firewall
+File Protection Protocol
+Cyber Space
+all of the above
+Firewall
+-----
+The national environment in which communications over computer network occurs?
+Cyber Space
+internet
+Dark Web
+None of these
+Cyber Space
+-----
+Exploiting an employee at a company to gain access to their network is an example of ?
+Social Engineering
+Physical Security Exploit
+Social Engineering
+Man in the Middle Attack
+Social Engineering
+-----
+A feature or defect of a computer system that allows surreptitious unauthorized access to data?
+Backdoor
+loop hole
+SQL injection
+Zero day
+Backdoor
+-----
+network point that acts as an entrance to another network?
+Intranet
+Internet
+Proxy Server
+None of these
+Intranet
+-----
+Type of surveillance software that has capability to record keystrokes?
+Keylogger
+Malware
+Ransomware
+All of the above
+Keylogger
+-----
+Type of malware attack in which the attacker locks and encrypts the victims data?
+Ransomware
+Encrypt Malware
+Keylogger
+None of these
+Ransomware
